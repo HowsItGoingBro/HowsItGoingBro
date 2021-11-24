@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HowsItGoingBro
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python basics
+- 💞️ I’m looking to collaborate on a large task for begginers. 
